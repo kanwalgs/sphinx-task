@@ -1,0 +1,10 @@
+[
+    { "id": 1, "forename": "John", "surname": "Doe", "form": "10A", "send": true, "imageUrl":"../images/student1.jpeg"},
+    { "id": 2, "forename": "Jane", "surname": "Smith", "form": "11B", "send": false, "imageUrl":"../images/student2.jpeg"},
+    { "id": 3, "forename": "Emily", "surname": "Johnson", "form": "10C", "send": true, "imageUrl":"../images/student3.jpeg"},
+    { "id": 4, "forename": "Michael", "surname": "Brown", "form": "12A", "send": true, "imageUrl":"../images/student4.jpeg"},
+    { "id": 5, "forename": "John", "surname": "Doe", "form": "10A", "send": false, "imageUrl":"../images/student5.png"},
+    { "id": 6, "forename": "Jane", "surname": "Smith", "form": "11B", "send": false, "imageUrl":"../images/student1.jpeg"},
+    { "id": 7, "forename": "Emily", "surname": "Johnson", "form": "10C", "send": true, "imageUrl":"../images/student2.jpeg"},
+    { "id": 8, "forename": "Michael", "surname": "Brown", "form": "12A", "send": true, "imageUrl":"../images/student3.jpeg"}
+  ]
