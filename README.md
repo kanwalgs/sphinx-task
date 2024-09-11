@@ -1,7 +1,10 @@
 # Walktrhough
 Here I have used MUI react table to incorporate sorting and pagination. 
+
 I have used filtering on forename and surname.
+
 The fields in 'Send' are toggles. They can be changes to 'Yes' or 'No' dynamically. 
+
 Upon clicking picture or name of the student, another page will be opened with the details of that student.
 
 # Getting Started with Create React App
